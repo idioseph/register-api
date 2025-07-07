@@ -1,5 +1,5 @@
 
-# Well, this is a Basic auth Backend built with Express, Node.js and MongoDB
+# Well, this is a Basic auth Backend built with Express, Node.js, and MongoDB
 
 #### 🫠🫠For learning purposes only
 
@@ -31,4 +31,13 @@ Start the server
 ```bash
   npm run start
 ```
+
+
+## Environment Variables
+
+Make sure you set the environmental variables in your .env file, to run this project
+
+`MONGOURL`
+
+`PORT`
 
